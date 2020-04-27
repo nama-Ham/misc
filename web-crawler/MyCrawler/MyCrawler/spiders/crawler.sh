@@ -1,0 +1,1 @@
+scrapy runspider my_crawler_spider.py
